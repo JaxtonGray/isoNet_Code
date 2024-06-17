@@ -17,3 +17,6 @@ There are 2 files to examine here. The first is *Diagnostics.ipynb* and the seco
 The *Diagnostics.ipynb* file is where attributes of the results where examinded to understand the model itself, with some comparisons to isoP. 
 
 The *Statistical Analysis.ipynb* file is where the results were compared to the actual data to see how well the model was performing.
+
+## Contact
+If you have any questions or just wanna know more feel free to email me at jaxton.gray@ucalgary.ca
